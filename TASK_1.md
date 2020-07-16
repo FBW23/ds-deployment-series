@@ -1,6 +1,6 @@
 # Deployment Exercise 1 - Create an Atlas account
 
-Go to MongoDB Atlas Page: 
+Go to MongoDB Atlas Page:
 https://www.mongodb.com/cloud/atlas
 
 - Signup for free
@@ -18,6 +18,8 @@ https://www.mongodb.com/cloud/atlas
   - Create a collection and fill in a document
   - Check in Atlas if you can see the created data (tab "Collections")
 
+
+- Video Guide: https://www.youtube.com/watch?v=KKyag6t98g8
 
 ## Bonus
 
