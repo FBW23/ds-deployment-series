@@ -8,7 +8,9 @@ https://www.mongodb.com/cloud/atlas
   - Create a Cluster (will take some minutes to complete)
   - Setup a user
     - necessary for remote connection
-    - please use for the same "string" for username and password -> makes it much easier to test
+    - please use for the same "string" for username and password 
+      -> e.g. username: user123 and password: user123
+      -> makes it much easier to test
   - Setup Network Access > IP Whitelist > Access from everywhere
 
 - Connect to your Atlas DB using Compass (tab "Connect")
